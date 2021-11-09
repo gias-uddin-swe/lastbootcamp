@@ -1,0 +1,13 @@
+.dashboard {
+  background-color: black;
+  height: 100vh;
+  color: white;
+  cursor: pointer;
+}
+.dashboard-menu {
+  list-style: none;
+  margin-top: 10px;
+}
+.dashboard-menu:hover {
+  color: cyan;
+}

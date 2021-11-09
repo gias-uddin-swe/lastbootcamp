@@ -1,0 +1,15 @@
+.input-field {
+  padding: 10px;
+  width: 50%;
+  border: none;
+  border-bottom: 1px solid gray;
+  outline: none;
+}
+.submit-button {
+  background-color: #f7227a;
+  color: white;
+  width: 50%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
